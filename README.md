@@ -1,4 +1,4 @@
-# X File Extension
+# X.app File Extension
 
 X.app supports `.x` File Extension.
 
